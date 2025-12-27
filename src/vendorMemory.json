@@ -1,0 +1,15 @@
+{
+  "Supplier GmbH": {
+    "serviceDate": "2024-01-20",
+    "poNumber": "PO-A-051"
+  },
+  "Parts AG": {
+    "grossTotal": 2380,
+    "taxTotal": 380,
+    "currency": "EUR"
+  },
+  "Freight & Co": {
+    "discountTerms": "2% Skonto within 10 days",
+    "lineItems[0].sku": "FREIGHT"
+  }
+}

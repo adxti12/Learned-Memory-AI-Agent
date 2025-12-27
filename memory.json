@@ -1,0 +1,51 @@
+{
+  "vendorMemory": {
+    "Parts AG": {
+      "fields": {
+        "grossTotal": {
+          "lastValue": 2380,
+          "confidence": 0.9,
+          "lastUpdated": "2025-12-27T05:21:59.906Z"
+        },
+        "taxTotal": {
+          "lastValue": 380,
+          "confidence": 0.9,
+          "lastUpdated": "2025-12-27T05:21:59.906Z"
+        },
+        "currency": {
+          "lastValue": "EUR",
+          "confidence": 0.9,
+          "lastUpdated": "2025-12-27T05:21:59.906Z"
+        }
+      }
+    },
+    "Supplier GmbH": {
+      "fields": {
+        "serviceDate": {
+          "lastValue": "2024-01-20",
+          "confidence": 0.9,
+          "lastUpdated": "2025-12-27T05:21:59.905Z"
+        },
+        "poNumber": {
+          "lastValue": "PO-A-051",
+          "confidence": 0.9,
+          "lastUpdated": "2025-12-27T05:21:59.905Z"
+        }
+      }
+    },
+    "Freight & Co": {
+      "fields": {
+        "discountTerms": {
+          "lastValue": "2% Skonto within 10 days",
+          "confidence": 0.9,
+          "lastUpdated": "2025-12-27T05:21:59.906Z"
+        },
+        "lineItems[0].sku": {
+          "lastValue": "FREIGHT",
+          "confidence": 0.9,
+          "lastUpdated": "2025-12-27T05:21:59.906Z"
+        }
+      }
+    }
+  }
+}
