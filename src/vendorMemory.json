@@ -10,6 +10,11 @@
   },
   "Freight & Co": {
     "discountTerms": "2% Skonto within 10 days",
-    "lineItems[0].sku": "FREIGHT"
+    "lineItems[0].sku": "FREIGHT",
+    "skontoTerms": {
+      "percentage": 2,
+      "days": 10
+    },
+    "skontoTerm": "2% Skonto if paid within 10 days"
   }
 }
