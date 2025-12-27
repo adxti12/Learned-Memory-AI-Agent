@@ -6,9 +6,13 @@ A vendor-aware invoice processing system that learns from human corrections and 
 # What It Does
 
 Normalizes invoice fields
+
 Applies vendor-specific memory
+
 Detects VAT-inclusive pricing using raw text (e.g. MwSt. inkl.)
+
 Flags duplicate invoices safely
+
 Records all decisions in an audit trail
 
 # Files
